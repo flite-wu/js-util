@@ -1,5 +1,5 @@
 var startDrag = false;
-var l, t; // 设置弹出窗的 left, top 属性；
+var l, t; // 设置弹出窗的 left, top 属性； 
 var startX, startY;
 var _this;
 
