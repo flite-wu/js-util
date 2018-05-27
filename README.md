@@ -11,3 +11,6 @@ format-html.js<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;/li&gt;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&lt;/ul&gt;<br>
 &nbsp;&nbsp;It's easy to read or edit in editor, like ace.
+
+drag-modal.js<br>
+&nbsp;&nbsp;bootstrap modal can't drag, just import this js file, without any other code.
