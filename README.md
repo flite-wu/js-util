@@ -3,11 +3,11 @@ some useful util for javascript, some base on jquery.
 
 format-html.js
   When you change DOM with jquery or other js framework, then HTML you get from DOM may be unformatted, like:
-      %3Cul%20class%3D%22list-group%20mc-box%20ui-sortable%22%20component%3D%22listgroup%22%3E%3Cli%20class%3D%22list-group-item%22%3ECras%20justo%20odio3%3C%2Fli%3E%3C%2Ful%3E
+      &lt;ul class=&quot;list-group mc-box ui-sortable&quot; component=&quot;listgroup&quot;&gt;&lt;li class=&quot;list-group-item&quot;&gt;Cras justo odio3&lt;/li&gt;&lt;/ul&gt;
   After formatted:
-      <ul class="list-group mc-box ui-sortable" component="listgroup">
-        <li class="list-group-item">
+      &lt;ul class=&quot;list-group mc-box ui-sortable&quot; component=&quot;listgroup&quot;&gt;
+        &lt;li class=&quot;list-group-item&quot;&gt;
 		      Cras justo odio3
-	      </li>
-      </ul>
+	      &lt;/li&gt;
+      &lt;/ul&gt;
   It's easy to read or edit in editor, like ace.
